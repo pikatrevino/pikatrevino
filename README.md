@@ -5,7 +5,7 @@
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-As a cybersecurity professional, I leverage strong communication skills, effective time management, and collaborative teamwork to protect organizations and their people. My commitment to upholding the law and safeguarding individuals drives my approach to cybersecurity, ensuring that all efforts are aligned with legal standards and ethical practices. By combining these strengths and values, I contribute to robust and resilient cybersecurity strategies that protect against emerging threats.
+As an aspiring cybersecurity professional, I bring strong communication skills, effective time management, and a collaborative spirit to the field. My dedication to protecting people and following the law guides my approach, ensuring that my work aligns with ethical standards. I am eager to apply these strengths and values to support an organization’s cybersecurity efforts and contribute to building a secure digital environment
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
